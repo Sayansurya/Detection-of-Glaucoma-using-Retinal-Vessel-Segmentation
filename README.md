@@ -1,1 +1,1 @@
-# Detection-of-Glaucoma-using-Retinal-Vessel-Segmentation
+# medical_image_segmentation
